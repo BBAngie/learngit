@@ -1,3 +1,0 @@
-Learn git
-Review git add and git commit command
-Review Version back up
